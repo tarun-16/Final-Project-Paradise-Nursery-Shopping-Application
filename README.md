@@ -1,7 +1,11 @@
 # Final-Project-Paradise-Nursery-Shopping-Application
 
-## Task 1
+## Product listing page
 ![image](https://github.com/user-attachments/assets/b4568754-40d6-456d-ac75-a4d16bdc8bc3)
+
+## Shopping cart page
+![image](https://github.com/user-attachments/assets/5d8ab0ce-b7cb-461c-8902-632fbe24c2ae)
+
 
 
 
