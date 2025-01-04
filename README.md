@@ -1,5 +1,10 @@
 # Final-Project-Paradise-Nursery-Shopping-Application
 
+## Task 1
+![image](https://github.com/user-attachments/assets/b4568754-40d6-456d-ac75-a4d16bdc8bc3)
+
+
+
 ## Information about the Project
 General
 Client: Myself
